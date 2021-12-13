@@ -25,10 +25,9 @@ body{
     margin-bottom: 8%;
     transition: 0.3s;
 }
-.card:hover{
-    background-image: url("http://c.files.bbci.co.uk/121F3/production/_111472247_coronaweb_01.gif");
-}
 
+.card:hover {
+    Background-img: URL ("https://images.app.goo.gl/H88eLZK2WCk59SXc8");
 h1{
     color: black;
     justify-content: center;
